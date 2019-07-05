@@ -20,6 +20,7 @@ Amazon DynamoDB mongo DB Database Service
 
 The application is now hosted on Cloud 9 and cached locally in the browser by a service worker. 
 The web application manifest and HTML code will provide icons, user login, question test  for iOS, Windows and Android. 
+https://github.com/AllaWedler/Lipo-App/commit/d85d523137ba069694bec21acb86b2e9e8218674
 
 
 
