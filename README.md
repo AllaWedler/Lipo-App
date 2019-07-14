@@ -8,10 +8,10 @@ https://024def2e48be42f1b672cd84269b76ab.vfs.cloud9.us-east-1.amazonaws.com/
 Installation steps:
 1: The Lipo-App has been created in development environment on the AWS Cloud 9
 2. The app is written in HTML, CSS3 and JavaScript computer languages
-By default, the application will run on http://localhost:8080. Add this command to your package.json start script. 
+by default, the application will run on http://localhost:8080. Add this command to your package.json start script. 
 This will automatically reload the service worker. Icon: "logo.png" was added to the file manifest.json
 3. Start an application with a web manifest, pages and icons.
-4.Add Authentication and Authorization with Amazon DynamoDB supporting individual user profiles in user.js
+4.Add authentication and authorization with Amazon DynamoDB supporting individual user profiles in user.js
 
 Requirements:
 AWS Cloud 9
